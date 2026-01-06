@@ -1,4 +1,9 @@
-# Predicting-Health-Risk-Levels-Using-Lifestyle-Behavioral-Factors
+# Predictive Modeling For Health Risk Classification<img width="1298" height="658" alt="Screenshot 2026-01-06 at 12 56 25 PM" src="https://github.com/user-attachments/assets/1085d43d-c91e-46ce-96f6-040620b36f8b" />
+<img width="1298" height="658" alt="Screenshot 2026-01-06 at 12 56 33 PM" src="https://github.com/user-attachments/assets/1b617869-6cf1-45f6-a917-b4e6e70610b7" />
+<img width="1352" height="878" alt="Screenshot 2026-01-06 at 12 56 54 PM" src="https://github.com/user-attachments/assets/f9c07878-b57c-46a3-a7db-f216b67d1ddb" />
+<img width="1298" height="658" alt="Screenshot 2026-01-06 at 12 55 21 PM" src="https://github.com/user-attachments/assets/4327bc5d-27d1-44c6-b93c-03fcef221470" />
+<img width="1298" height="658" alt="Screenshot 2026-01-06 at 12 56 05 PM" src="https://github.com/user-attachments/assets/1cd45286-8420-4924-ad97-730c15b2c83d" />
+
 The goal of this project is to predict whether a person has High health risk (1) or Low health risk (0) using logistic regression and decision tree modeling to identify the strongest predictors of health risk multiple lifestyle, demographic, and behavioral indicators. 
 
 ******Data Exploration & Visualization:******
